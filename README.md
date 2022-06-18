@@ -1,2 +1,2 @@
 # ML_journey
-Machibe learning learning progress and templates
+Machine learning learning progress and templates
